@@ -4,18 +4,11 @@ collections:
     collection_order: custom
     sync_mode: sync
 
-
-
-collections:
   Most Popular Anime:
     mal_popular: 20
     collection_order: custom
     sync_mode: sync
 
-
-
-
-collections:
   Most Favorited Anime:
     mal_favorite: 20
     collection_order: custom
